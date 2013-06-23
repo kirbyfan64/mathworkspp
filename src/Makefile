@@ -66,8 +66,8 @@ clean :
 # Debug_target
 
 Debug_target.BIN = mathworkspp.a
-Debug_target.OBJ = shapes.o 
-DEP_FILES += shapes.d 
+Debug_target.OBJ = shapes.o multiples.o
+DEP_FILES += shapes.d multiples.d
 clean.OBJ += $(Debug_target.BIN) $(Debug_target.OBJ)
 
 Debug_target : Debug_target.before $(Debug_target.BIN) Debug_target.after_always
