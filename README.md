@@ -7,6 +7,8 @@ Version history:
 
 0.1: Initial commit. Have shapes.hpp done. Based on Mathworks 1.3.2.
 
+0.2: Added namespaces. Have multiples, exponent done.
+
 Working on the rest of Mathworks. Note that Mathworks++ releases will often lag behind the Mathworks releases.
 The reason is that Python is 10x easier that C++.
 

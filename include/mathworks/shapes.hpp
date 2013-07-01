@@ -1,6 +1,9 @@
 #ifndef SHAPES_HPP_INCLUDED
 #define SHAPES_HPP_INCLUDED
 
+/*! \mainpage Welcome to Mathworks++!
+ Mathworks++ is a C++ port of Python mathworks.
+*/
 
 class square
 {
