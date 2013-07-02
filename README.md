@@ -3,6 +3,11 @@ mathworkspp
 
 A C++ port of Python Mathworks.  At the moment there is only one file, shapes.hpp. I am working on exponent.hpp.
 
+Directory layout:
+include: Add this folder to your compiler's include path to use mathworks.
+lib: Contains the Mathworks++ library, libmathworkspp.a.
+src: Contains the Mathworks++ source.
+
 Version history:
 
 0.1: Initial commit. Have shapes.hpp done. Based on Mathworks 1.3.2.
