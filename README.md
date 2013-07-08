@@ -1,7 +1,9 @@
 mathworkspp
 ===========
 
-A C++ port of Python Mathworks.  At the moment there is only one file, shapes.hpp. I am working on exponent.hpp.
+A C++ port of Python Mathworks.
+
+Sourceforge Page: https://sourceforge.net/projects/mathworkspp/
 
 Directory layout:
 
